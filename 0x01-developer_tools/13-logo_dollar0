@@ -1,0 +1,47 @@
+<div class="container">
+  <!-- About Section Heading -->
+  <h2 class="page-section-heading text-center text-uppercase text-white">
+    About
+  </h2>
+
+  <!-- Icon Divider -->
+  <div class="divider-custom divider-light">
+    <div class="divider-custom-line"></div>
+    <div class="divider-custom-icon">
+      <i class="fas fa-star"></i>
+    </div>
+    <div class="divider-custom-line"></div>
+  </div>
+
+  <!-- About Section Content -->
+  <div class="row">
+    <div class="col-lg-4 ml-auto">
+      <p class="lead">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam blandit
+        turpis iaculis nisl pharetra auctor. Phasellus mattis malesuada feugiat.
+        Quisque malesuada orci non risus scelerisque bibendum. Quisque viverra
+        vulputate posuere.
+      </p>
+    </div>
+    <div class="col-lg-4 mr-auto">
+      <p class="lead">
+        Class aptent taciti sociosqu ad litora torquent per conubia nostra, per
+        inceptos himenaeos. Nulla non ornare purus. Nulla bibendum maximus urna,
+        sed finibus velit tristique vel. Vivamus ante mi, mollis at scelerisque
+        nec, feugiat non dui.
+      </p>
+    </div>
+  </div>
+
+  <!-- About Section Button -->
+  <div class="text-center mt-4">
+    <a
+      class="btn btn-xl btn-outline-light"
+      href="https://www.holbertonschool.com"
+      target="_blank"
+    >
+      <i class="fas fa-download mr-2"></i>
+      Download me!
+    </a>
+  </div>
+</div>
