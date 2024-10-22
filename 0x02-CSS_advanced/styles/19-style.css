@@ -326,29 +326,29 @@ a:active {
 }
 
 .row ul {
-  margin: 0; /* No margin */
-  padding: 0; /* No padding */
-  list-style: none; /* Remove default styles */
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
 .col-1-3 {
-  width: 33.33%; /* 33.33% of the parent */
-  float: left; /* Float left */
-  padding: 0.5rem; /* Padding of half the root element */
+  width: 33.33%;
+  float: left;
+  padding: 0.5rem;
 }
 
 .col-1-2 {
-  width: 50%; /* 50% of the parent */
-  float: left; /* Float left */
-  padding: 0.5rem; /* Padding of half the root element */
+  width: 50%;
+  float: left;
+  padding: 0.5rem;
 }
 
 .footer-copyright {
-  margin: 0; /* No margins */
-  font-size: var(--font-size-small); /* Font size small */
-  color: var(--text-color); /* Text color */
+  margin: 0;
+  font-size: var(--font-size-small);
+  color: var(--text-color);
 }
 
 .footer ul {
-  text-align: right; /* Align text to the right */
+  text-align: right;
 }
