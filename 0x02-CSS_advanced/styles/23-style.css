@@ -375,5 +375,5 @@ a:active {
 }
 
 .social-link svg {
-  fill: var(--text-color);
+  color: var(--text-color);
 }
